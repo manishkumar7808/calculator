@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+    width: 100%;
+    
+  }
+  
+  .Button{
+    width:66px;
+    padding: 20px;
+    margin:0 3px;
+    background-color: #ff7f7f78;
+    border:2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+    transition: all 0.2s linear;
+  }
+  .Button:hover{
+    transition: all 0.2s linear;
+    background-color:aqua;
+    color: #333;
+  }
+  
+  .row{
+    margin:8px 0;
+  }
+  
+  .row input{
+    font-size:20px;
+    margin: 0;
+    padding: 15px 15px;
+    border:2px solid black;
+    border-radius: 5px;
+    background-color: aqua;
+  }
